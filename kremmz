@@ -1,5 +1,5 @@
 local _ = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
-local b = _:New({Name = "                                      LimitedScript", FolderToSave = "SolarisLibStuff"})
+local b = _:New({Name = "                                      LimitedFucker3.0", FolderToSave = "SolarisLibStuff"})
 local _ = b:Tab("Info")
 local a = _:Section("Click for message")
 local _ = b:Tab("Valkyrie")
